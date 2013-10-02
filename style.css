@@ -1,0 +1,21 @@
+body { background: rgb(112,0,0); font-family: Gill Sans, Verdana, Helvetica, sans-serif; font-size: 10pt; margitn-top: 0px; margin-right: auto; margin-bottom: 0px; margin-left: auto;}
+h1.title { color: rgb(255,255,255); text-align: center; font-size: 36pt; font-weight: bold; margin-top:15px; margin-bottom:0px;}
+h2.title {color:rgb(255,255,255); text-align: center; font-size: 14pt; font-weight: normal; text-decoration: underline; margin-bottom: 25px}
+#main { color: rgb(255,255,255); width:580px; height:3050px; padding-top:0px; padding-right:0px; padding-bottom:10px; padding-left:10px; margin-left:550px; margin-right:550px; background-image: none; }
+p.tag:main { color:#fff; text-align: center; font-size: 14pt; font-weight:normal;}
+ul {color: rgb(255,255,255); text-align: center; padding-top:0px; padding-right: 0px; padding-bottom:0px; padding-left:0px; margin-top:0px; margin-right:0px;margin-bottom:0px;margin-left:0px;list-style-type:none; list-style-position:outside; list-style-image:none;}
+li {text-align:center; padding-top: 0px; padding-right: 0px; padding-bottom:0px; padding-left:0px; margin-bottom:20px; margin-left:20px}
+a {font-weight:bold; text-decoration:underline;}
+a:link {color:rgb(255,255,255);}
+a:visited {color:rgb(255,255,0);}
+a:hover, a.resume:hover {color:rgb(16,16,16); text-decoration: underline; background-color: rgb(112,0,0);}
+#img {display:block; margin-right:auto; margin-left:auto; padding: 20px; border-top-color:black; border-right-color: black; border-bottom-color: black; border-top-width: 1px; border-right-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;}
+#rsidebar {color:rgb(255,255,255); text-align:center; padding:20px; margin-bottom:20px; margin-left:20px; border:20px;}
+a.tag:link, a.tag:visited {color:rgb(255,255,255); text-decoration:none;}
+a.tag:hover{ color:#fff; text-decoration:underline; background-color: rgb(112,0,0);}
+#wrap {width:1240px; margin:auto; border-style:solid; margin:auto;}
+h2.titletop { color: black; text-align: center; font-size: 14pt; font-weight:bold; text-decoration:none; margin-bottom:25px}
+h3.title2 { color: rgb(16,16,16); text-align: center; font-size: 12pt; font-weight:bold; text-decoration:none; margin-top:25px; margin-bottom:25px}
+ul.resume { color: black; text-align:center; font-size:10pt; font-weight:normal; text-decoration:none; margin:auto;}
+dd{color:black; text-align:left;}
+dd.date {color:black; text-align:right;}
